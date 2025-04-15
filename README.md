@@ -1,7 +1,8 @@
-Python converter script that takes a binary image file of the 32 KiB ROM of a Grundig VHS VCR machine of the mid 1990ies with the proprietary "Archiv-System" and outputs some hopefully useful text on the console.
+Python converter script that takes a binary image file of the 32 KiB ROM of a Grundig VHS VCR machine 
+of the mid 1990ies with the proprietary "Archiv-System" and outputs some hopefully useful text on the console.
 
 INPUT:
-File "EEPROM_28C256.BIN"
+1. : File "EEPROM_28C256.BIN"
 
 OUTPUT:
 1. : Clip titles, hh:mm positions etc. in order as found in ROM
