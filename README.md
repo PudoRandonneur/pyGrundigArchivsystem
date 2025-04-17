@@ -1,3 +1,6 @@
+Illustration video:
+https://www.youtube.com/watch?v=94CFK_013ds
+
 Python converter script that takes a binary image file of the 32 KiB ROM of a Grundig VHS VCR machine 
 of the mid 1990ies with the proprietary "Archiv-System" and outputs some hopefully useful text on the console.
 
